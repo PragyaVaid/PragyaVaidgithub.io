@@ -1,2 +1,3 @@
-# PragyaVaidgithub.io
+# PragyaVaid.github.io
 My Homepage
+
